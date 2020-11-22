@@ -16,7 +16,7 @@ Metadata:
     ReadmeUrl: README.md
     Labels: ['VPC']
     HomePageUrl: https://github.com/bnusunny/sar-public-only-vpc
-    SemanticVersion: 0.0.1
+    SemanticVersion: 0.0.2
     SourceCodeUrl: https://github.com/bnusunny/sar-public-only-vpc
 
 Parameters:
